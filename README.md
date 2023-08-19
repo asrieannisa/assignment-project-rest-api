@@ -1,4 +1,4 @@
-# assignment-project-golang
+# Assignment-Project-Rest-API-Golang
 Assignment Project Rest API Golang
 
 Create Student
