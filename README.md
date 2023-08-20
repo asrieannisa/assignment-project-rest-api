@@ -1,6 +1,10 @@
 # Assignment-Project-Rest-API-Golang
 Assignment Project Rest API Golang
 
+Author : Asrie Annisa Pratiwi
+
+Email : asrieannisap@gmail.com
+
 Create Student
 
 URL: http://localhost:8080/student
