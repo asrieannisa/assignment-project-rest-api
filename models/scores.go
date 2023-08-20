@@ -8,6 +8,6 @@ type Scores struct {
 	Description      string `gorm:"not null;type:varchar(191)"`
 	Score            int    `gorm:"not null"`
 	Student_ID       uint
-	CreatedAt        time.Time
-	UpdatedAt        time.Time
+	Created_at       time.Time
+	Updated_at       time.Time
 }
