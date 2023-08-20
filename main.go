@@ -1,3 +1,5 @@
+// Author : Asrie Annisa Pratiwi
+// Email : asrieannisap@gmail.com
 package main
 
 import "assignment_project_rest_api/routers"
